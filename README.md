@@ -1,10 +1,12 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/8wgCKhpZ)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15613546&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 
 The fundamental concepts of version control are what helps track and manages changes to file and code over time and are as follows:
 i. Repository:  is where all the project files, along with their revision history, are stored.
 ii. Commit: A commit is the state of the project at a particular point in time. A commit contains things like the author, a message describing the change, and a unique ID.
-iii. Branch: Branching: A branch is a parallel version of the repository. Different branches allow developers to work on features, fixes, or experiments independently without affecting the main project which is usually called the main or master branch.
+iii. Branch: A branch is a parallel version of the repository. Different branches allow developers to work on features, fixes, or experiments independently without affecting the main project which is usually called the main or master branch.
 iv. Merge: This is the process whereby changes made in a feature branch are integrated or added into the main branch.
 v. Pull: This is the act of fetching changes from a remote repository and merging them into your current branch. 
 vi. Push: is the act of sending your committed changes to a remote repository so others can access and collaborate with the updated work.
